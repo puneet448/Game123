@@ -1,2 +1,2 @@
 # threejs-pong-game
-A ( very ) simple pong game built with Three.js R78
+Developed a 2D Pong game using Three.js, incorporating elements such as paddles, ball, user input handling, collision detection, and scoring logic. Implemented game loop and animations while creating an engaging gameplay experience
